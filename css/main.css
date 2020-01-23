@@ -52,6 +52,7 @@ font-style: normal;
   position: relative;
   overflow: hidden;
   max-height: 350px;
+  margin: 2;
 }
 
 .banner-content {
@@ -100,7 +101,7 @@ h3 {
 }
 
 .card-label {
-  font-family: "garamond-premier-pro", serif;
+  font-family: "gill-sans-nova", sans-serif;
   font-size: 1.2em;
   color: #fff;
   background-color: rgba(50, 20, 10, .5);
