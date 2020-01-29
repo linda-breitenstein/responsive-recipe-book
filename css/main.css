@@ -1,10 +1,11 @@
 html {
   color: black;
+  font-family: "gill-sans-nova", sans-serif;
 }
 
 h1 {
   font-family: "sketchnote-square", sans-serif;
-  color: #99161d;
+  color: #7ba32d;
 }
 
 .logo {
@@ -15,14 +16,14 @@ h1 {
   position: relative;
   overflow: hidden;
   max-height: 500px;
-  margin: 2rem;
 }
 
 nav, ul {
   font-family: "gill-sans-nova", sans-serif;
-  list-style-type: none;
+  list-style: none;
   border-bottom: none;
   display: inline-block;
+  list-style: none;
 }
 
 nav, li {
@@ -34,12 +35,6 @@ nav, a {
   list-style: none;
   color: #000;
 }
-
-/* .nav {
-  display: none;
-  position: absolute;
-  background-color: pink;
-} */
 
 h2 {
   font-family: "sketchnote-square", sans-serif;
@@ -57,17 +52,15 @@ h3 {
 h4 {
   font-family: "garamond-premier-pro", serif;
   color: #7ba32d;
-  margin: 0;
 }
-
 
 .text {
   font-family: "garamond-premier-pro", serif;
 }
 
 .directions {
-  font-family: "gill-sans-nova", sans-serif;
   list-style: none;
+  display: inline-block;
 }
 
 .card-label {
@@ -85,7 +78,6 @@ h4 {
   position: relative;
   width: auto;
   height: 500px;
-}
 }
 
 .photo {
@@ -106,6 +98,16 @@ ul {
 }
 
 .active {
+  border-bottom: solid 4px #99161d;
+}
+
+.btn {
   background-color: #99161d;
-  color: white;
+  border-color: #99161d;
+  margin: none;
+}
+
+.btn:hover {
+  background-color: #bf161d;
+  border-color: #bf161d;
 }
