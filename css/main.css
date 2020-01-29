@@ -43,7 +43,6 @@ nav, a {
 h2 {
   font-family: "sketchnote-square", sans-serif;
   color: #7ba32d;
-  padding-top: 1;
 }
 
 h3 {
@@ -108,7 +107,6 @@ ul {
 .btn {
   background-color: #99161d;
   border-color: #99161d;
-  margin: none;
 }
 
 .btn:hover {
