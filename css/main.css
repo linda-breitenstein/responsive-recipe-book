@@ -1,10 +1,10 @@
 html {
   color: black;
-  font-family: "gill-sans-nova", sans-serif;
+  font-family: gill-sans-nova, sans-serif;
 }
 
 h1 {
-  font-family: "sketchnote-square", sans-serif;
+  font-family: sketchnote-square, sans-serif;
   color: #7ba32d;
 }
 
@@ -23,11 +23,10 @@ h1 {
 }
 
 nav, ul {
-  font-family: "gill-sans-nova", sans-serif;
+  font-family: gill-sans-nova, sans-serif;
   list-style: none;
   border-bottom: none;
   display: inline-block;
-  list-style: none;
 }
 
 nav, li {
@@ -41,23 +40,23 @@ nav, a {
 }
 
 h2 {
-  font-family: "sketchnote-square", sans-serif;
+  font-family: sketchnote-square, sans-serif;
   color: #7ba32d;
 }
 
 h3 {
-  font-family: "garamond-premier-pro", serif;
+  font-family: garamond-premier-pro, serif;
   color: #7ba32d;
   margin: 0;
 }
 
 h4 {
-  font-family: "garamond-premier-pro", serif;
+  font-family: garamond-premier-pro, serif;
   color: #7ba32d;
 }
 
 .text {
-  font-family: "garamond-premier-pro", serif;
+  font-family: garamond-premier-pro, serif;
 }
 
 .directions {
@@ -66,7 +65,7 @@ h4 {
 }
 
 .card-label {
-  font-family: "gill-sans-nova", sans-serif;
+  font-family: gill-sans-nova, sans-serif;
   font-size: 1.2em;
   color: #fff;
   background-color: rgba(153, 22, 29, .5);
