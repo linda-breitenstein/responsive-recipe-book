@@ -15,7 +15,11 @@ h1 {
 .banner {
   position: relative;
   overflow: hidden;
-  max-height: 500px;
+  background-size: cover;
+  background-position: top;
+  display: flex;
+  align-items: center;
+  min-height: 45vh;
 }
 
 nav, ul {
