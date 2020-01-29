@@ -15,21 +15,13 @@ h1 {
 .banner {
   position: relative;
   overflow: hidden;
-  background-size: cover;
-  background-position: top;
-  display: flex;
-  align-items: center;
-  min-height: 45vh;
+  max-height: 500px;
 }
 
 nav, ul {
   font-family: gill-sans-nova, sans-serif;
   list-style: none;
   border-bottom: none;
-  display: inline-block;
-}
-
-nav, li {
   display: inline-block;
 }
 
